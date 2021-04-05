@@ -12,5 +12,5 @@ async function init() {
 }
 
 module.exports = {
-  Workout: require("./workout")
+  Workout: require("../models/workout")
 };
