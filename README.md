@@ -1,4 +1,4 @@
-# Unit 17 Nosql Homework: Workout Tracker
+# Fitness Tracker
 
 ## Description
 
