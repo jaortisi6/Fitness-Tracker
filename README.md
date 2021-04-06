@@ -18,7 +18,8 @@ Once loaded in the browser, users can either click the dashboard page to view th
 
 ## License
 
-							MIT License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
     		Unit 13 Express-Handlebars: Eat-Da-Burger!   Copyright (C) 2020 Jeffrey Quittman
 
