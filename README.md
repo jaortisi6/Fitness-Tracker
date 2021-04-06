@@ -2,6 +2,11 @@
 
 https://fitness-tracker-jo.herokuapp.com/?id=606bd5ade0d2ec00155262ae
 
+## Screenshots
+
+![Fitness Tracker Screenshot](screenshot1.PNG)
+![Fitness Tracker Screenshot 2](screenshot2.PNG)
+
 ## Description
 
 This app is a fitness workout logger that takes in new exercises and uses MongoDB with Mongoose to log them to the database which can then be analyzed in the app's dashboard that has multiple graphic views of the different workouts.
